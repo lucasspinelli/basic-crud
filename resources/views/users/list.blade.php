@@ -15,6 +15,9 @@
                     @endif
 
                     {{ __('Users List') }}
+                    @foreach ($usuarios as $u)
+                    <p>{{ $u->name }} | {{ $u->email }}</p>
+                    @endforeach
                 </div>
             </div>
         </div>
