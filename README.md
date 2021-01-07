@@ -16,7 +16,7 @@ DB_PASSWORD=</br>
 2: Open Folder project and execute 'php artisan migrate' </br>
 
 <b>CRUD</b></br>
-1: Open the terminal in project folder and run 'php artisan serve' or, if you are use XAMPP, extract project folder in 'HTDOCS' and open 'localhost/basic-crud-project/public' in your browser.</br>
+1: Start Apache and MySQL in your XAMPP, extract project folder in 'HTDOCS' and open 'localhost/basic-crud-project/public' in your browser.</br>
 2: Click in 'Register' if you are a new user.</br>
 3: After registering, a welcome screen will appear, click in "Listas de Usuários"</br>
 4: Click in "Novo Usuário" then play with CRUD, you can edit, delete and create as many records as you want</br>
