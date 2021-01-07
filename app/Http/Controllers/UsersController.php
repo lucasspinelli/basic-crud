@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\Models\Usuario as Usuario;
+use App\Models\Usuario;
 use Illuminate\Http\Request;
 
 class UsersController extends Controller
